@@ -86,3 +86,4 @@ after the `PokemonBrowser` component first renders.
 
 If done correctly, you should see the list of all the Pokemon in the side of the
 browser.
+# waa15-react-thunk-pokedex
